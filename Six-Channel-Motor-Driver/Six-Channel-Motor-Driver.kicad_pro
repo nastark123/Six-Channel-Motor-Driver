@@ -324,6 +324,10 @@
     [
       "fae211d9-a2ff-4c2d-8f9c-677d806a3588",
       "RP2040"
+    ],
+    [
+      "3a4bac7e-dfbd-4b15-a6c5-0580d7b6fff5",
+      "Driver 0"
     ]
   ],
   "text_variables": {}
